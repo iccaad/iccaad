@@ -1,38 +1,44 @@
-# Hi there, I'm Irsyaad 👋
+# Hi there, I'm Muhamad Fadhilla Irsyaad 👋
 
-I am an Informatics Engineering student focused on building practical, impact-driven software systems. My work is highly concentrated on **Fullstack Web Development (FE/BE)**, **WordPress Architecture**, and integrating **Machine Learning** models to solve real-world operational bottlenecks.
+I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang[cite: 1]. My focus lies in **Fullstack Web Development**, **UI/UX Design**[cite: 1], and integrating **Machine Learning** models to build practical, impact-driven software systems.
+
+📫 Reach me at: muhamadfadhillairsyaad@students.unnes.ac.id[cite: 1]
+
+---
 
 ### 🛠 Technical Arsenal
 
 **Backend & Database:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)[cite: 1]
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)[cite: 1]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)[cite: 1]
 
-**Frontend & Tooling:**  
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-*(Anda bisa menambahkan badge React/Vue/Tailwind di sini sesuai stack FE utama Anda)*
+**Frontend & UI/UX:**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)[cite: 1]
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)[cite: 1]
 
-**CMS & Ecosystems:**  
-![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-
-**Machine Learning & AI:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-*(Tambahkan badge TensorFlow/PyTorch/Scikit-learn jika relevan)*
+**CMS & AI:**  
+![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)[cite: 1]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[cite: 1]
 
 ---
 
-### 🚀 Ongoing Operations & Focus Areas
-- 🧠 **AI-Assisted Systems (ML):** Architecting web applications capable of generating individualized educational programs using AI integrations.
-- 🌐 **Public Sector Digitalization (WordPress):** Executing structural web retouches, custom interface configurations, and functional elements for public service portals.
-- ⚙️ **System Architecture (FE/BE):** Designing scalable backend logic and deploying optimized frontend environments.
+### 🚀 Real-World Operations & Deployment
+
+- 🏛️ **Public Sector & Law Enforcement (Polrestabes Semarang, 2026):**  
+  - Architected the **"Sistem Wajib Lapor"** website for real-time monitoring of individuals under police surveillance[cite: 1].  
+  - Developed a specialized **motorcycle custody data management system** used during the 2026 Eid homecoming period[cite: 1].
+
+
+- 🧠 **AI-Assisted Education:**  
+  - Currently conceptualizing systems capable of generating individualized learning parameters.
 
 ---
+
 
 ### 📊 Tactical Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iccaad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iccaad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Top Languages" />
 </div>
 
 <div align="center">
