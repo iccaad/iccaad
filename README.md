@@ -1,40 +1,35 @@
 # Hi there, I'm Muhamad Fadhilla Irsyaad 👋
 
-I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang[cite: 1]. My focus lies in **Fullstack Web Development**, **UI/UX Design**[cite: 1], and integrating **Machine Learning** models to build practical, impact-driven software systems.
-
-📫 Reach me at: muhamadfadhillairsyaad@students.unnes.ac.id[cite: 1]
-
----
+I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang. My focus lies in **Fullstack Web Development**, **UI/UX Design**, and integrating **Machine Learning** models to build practical, impact-driven software systems.
 
 ### 🛠 Technical Arsenal
 
 **Backend & Database:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)[cite: 1]
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)[cite: 1]
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)[cite: 1]
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend & UI/UX:**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)[cite: 1]
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)[cite: 1]
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **CMS & AI:**  
-![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)[cite: 1]
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[cite: 1]
+![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 🚀 Real-World Operations & Deployment
 
 - 🏛️ **Public Sector & Law Enforcement (Polrestabes Semarang, 2026):**  
-  - Architected the **"Sistem Wajib Lapor"** website for real-time monitoring of individuals under police surveillance[cite: 1].  
-  - Developed a specialized **motorcycle custody data management system** used during the 2026 Eid homecoming period[cite: 1].
+  - Architected the **"Sistem Wajib Lapor"** website for real-time monitoring of individuals under police surveillance.  
+  - Developed a specialized **motorcycle custody data management system** used during the 2026 Eid homecoming period.
 
 
 - 🧠 **AI-Assisted Education:**  
   - Currently conceptualizing systems capable of generating individualized learning parameters.
 
 ---
-
 
 ### 📊 Tactical Metrics
 <div align="center">
