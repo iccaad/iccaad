@@ -2,8 +2,7 @@
 
 I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang. My focus lies in **Fullstack Web Development**, **UI/UX Design**, and integrating **Machine Learning** models to build practical, impact-driven software systems.
 
-### 🛠 Technical Arsenal
-
+### 🛠 Technical
 **Backend & Database:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
