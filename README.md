@@ -31,9 +31,6 @@ I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang. M
 ---
 
 ### 📊 Tactical Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iccaad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="175" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <i>"Thinking critically, executing practically."</i>
