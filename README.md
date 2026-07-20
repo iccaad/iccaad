@@ -30,8 +30,6 @@ I am an Informatics Engineering (PTIK) student at Universitas Negeri Semarang. M
 
 ---
 
-### 📊 Tactical Metrics
-
 <div align="center">
   <i>"Thinking critically, executing practically."</i>
 </div>
